@@ -46,6 +46,12 @@ As of November 2021, 90 papers have been published covering a broad range of top
 .. READ THIS 
    There is now a utility to add new entries to this list.
    Use the python script doc/doi2publications.py to generate entries from a DOI number, and paste them here
+.. [Guo2023]
+
+  Ao Guo, Quanming Lu, San Lu, Shimou Wang and Rongsheng Wang,
+  `Properties of Electron-scale Magnetic Reconnection at a Quasi-perpendicular Shock`,
+  `ApJ 955, 14 (2023) <http://dx.doi.org/10.3847/1538-4357/acec48>`_
+
 .. [Drobniak2023]
 
       P. Drobniak, E. Baynard, C. Bruni, K. Cassou, C. Guyot, G. Kane, S. Kazamias, V. Kubytskyi, N. Lericheux, B. Lucas, M. Pittman, F. Massimo, A. Beck, A. Specka, P. Nghiem, and D. Minenna,
